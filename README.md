@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Abri Fuh, A passionate DevOps Engineer based in Canada.<br>🔭 I’m currently working on Deploying Infrastructure using Terraform(IaC).<br>🤝 I’m looking for help with open-source projects, CI/CD pipelines and anything automation in the SDLC<br>🌱 I’m currently learning python to enhance my scripting skills.<br>💬 Ask me about  jenkins, kubernetes, terraform, ansible, docker etc.<br>
+Hi 👋, I'm Abri Fuh,I have a passion for tech and I'm based in Canada.<br>🔭 I’m currently working on Deploying Infrastructure using Terraform(IaC).<br>🤝 I’m looking for help with open-source projects, CI/CD pipelines and anything automation in the SDLC<br>🌱 I’m currently learning python to enhance my scripting skills.<br>💬 Ask me about  jenkins, kubernetes, terraform, ansible, docker etc.<br>
 
 
 ## 🌐 Socials:
